@@ -1,9 +1,9 @@
 en:
   site_settings:
     qa_tags: "Tags to enable Reviews on topic"
-    qa_show_topic_tip: "Show a tip about the mechanics of Reviews topics under the titles of Reviews topics"
+    qa_show_topic_tip: "Show a tip about the mechanics of reviews under the titles of topics"
     qa_enabled: "Enable Reviews Plugin"
-    qa_disable_like_on_answers: "Disables like button on answers in Reviews topics"
+    qa_disable_like_on_answers: "Disables like button on reviews of topics"
     qa_undo_vote_action_window: "Number of minutes users are allowed to undo votes in Reviews topics (enter 0 for no limit)"
     qa_comments_default: "Maximum number of comments to display by default."
     qa_trust_level_vote_limits: "Use trust level vote limits for the Reviews plugin"
@@ -25,6 +25,6 @@ en:
     error:
       user_has_not_voted: "User has not voted."
       user_over_limit: "You cannot exceed the number of votes for your trust level."
-      already_voted: "You can only vote once per question."
+      already_voted: "You can only vote once per topic."
       undo_vote_action_window: "You can only undo votes %{minutes} after voting."
       one_vote_per_post: "You can only vote once for each post."
