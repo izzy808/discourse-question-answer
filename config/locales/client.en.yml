@@ -35,13 +35,13 @@ en:
     topic:
       one_to_many:
         title: "Review"
-        help: "begin composing a review"
+        help: "Begin composing a review of this topic"
       answer:
         title: 'Review'
-        help: 'begin composing a review'
+        help: 'Begin composing a review of this topic'
       comment:
         title: 'Comment'
-        help: 'begin composing a comment on this review'
+        help: 'Begin composing a comment on this topic'
         show_comments:
           all: 'show {{count}} comments'
           more: 'show {{count}} more comments'
